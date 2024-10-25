@@ -14,5 +14,7 @@ class solution:
             return 0
     
 obj=solution()
-a=int(input("enter the number: "))
-print(obj.reverse(a))
+'''a=int(input("enter the number: "))'''
+print(obj.reverse(112233))
+print(obj.reverse(123654789))
+print(obj.reverse(456586))
