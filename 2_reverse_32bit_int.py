@@ -6,7 +6,7 @@ class solution:
             s=(int(n)*-1)
         else:
             m=str(x)
-            n=(k[::-1])
+            n=(m[::-1])
             s=int(n)
         if s in range((-2**31),((2**31)-1)):
             return s
