@@ -42,8 +42,8 @@ class Solution:
 obj=Solution()
 print(obj.kthCharacter(5))
 print(obj.kthCharacter(10))
-#print(obj.kthCharacter(25))
-#print(obj.kthCharacter(26))
+print(obj.kthCharacter(25))
+print(obj.kthCharacter(26))
 
 
         
